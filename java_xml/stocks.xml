@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><portfolio>
+<stock exchange="nyse">
+<name>Zack corp.</name>
+<symbol>ZCHM</symbol>
+</stock>
+<stock exchange="nasdaq">
+<name>Zaffss Inc.</name>
+<symbol>ZFFX</symbol>
+</stock>
+<stock exchange="nasdaq">
+<name>Freemans corp.</name>
+<symbol>FMMS</symbol>
+</stock>
+</portfolio>
