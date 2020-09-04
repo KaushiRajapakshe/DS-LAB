@@ -1,0 +1,9 @@
+Q3:
+
+01)
+
+It will be called after the bean has been created dependencies have been injected all managed properties are set and before the bean actually set into scope.
+
+02)
+
+Glass Fish Server
